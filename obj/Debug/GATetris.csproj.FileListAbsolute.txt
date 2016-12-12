@@ -1,0 +1,9 @@
+C:\Проекти\GATetris\obj\Debug\GATetris.Tetris.resources
+C:\Проекти\GATetris\obj\Debug\GATetris.csproj.GenerateResource.Cache
+C:\Проекти\GATetris\bin\Debug\GATetris.exe
+C:\Проекти\GATetris\bin\Debug\GATetris.pdb
+C:\Проекти\GATetris\bin\Debug\GATetrisControl.dll
+C:\Проекти\GATetris\bin\Debug\GATetrisControl.pdb
+C:\Проекти\GATetris\obj\Debug\GATetris.csprojResolveAssemblyReference.cache
+C:\Проекти\GATetris\obj\Debug\GATetris.exe
+C:\Проекти\GATetris\obj\Debug\GATetris.pdb
